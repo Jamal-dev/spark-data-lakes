@@ -1,0 +1,4 @@
+py4j
+pyspark
+path
+configparser
